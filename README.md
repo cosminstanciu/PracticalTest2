@@ -1,1 +1,2 @@
-# PracticalTest2
+Stanciu Cosmin-Andrei
+343C5

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PracticalTest2</string>
+    <string name="server">SERVER</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Start Server</string>
+    <string name="start_server">Start Server</string>
+    <string name="client">CLIENT</string>
+    <string name="client_address">Adress</string>
+    <string name="client_port">Port</string>
+    <string name="operator1">Operator1</string>
+    <string name="operator2">Operator2</string>
+    <string name="submit">Submit</string>
+    <string-array name="operation_type">
+        <item>add</item>
+        <item>multiply</item>
+    </string-array>
+</resources>
